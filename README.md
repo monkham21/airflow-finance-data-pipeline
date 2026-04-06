@@ -39,7 +39,7 @@ The pipeline demonstrates core data engineering concepts including orchestration
 4. **Load (Metrics)**
    - Store results in `currency_metrics` table
 
-<img src="airflow_diagram.png" alt="Airflow" width="500"/>
+<img src="airflow_diagram.png" alt="Airflow" width="800"/>
 ---
 
 ## 📊 Example Output
